@@ -42,6 +42,7 @@ function Navbar() {
           <li>Viagens</li>
           <li>Reservas</li>
           <li>Informações</li>
+          
         </ul>
         <div className="mobile-menu-bottom">
           <div className="menu-icons">
